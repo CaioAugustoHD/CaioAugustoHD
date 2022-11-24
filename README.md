@@ -15,7 +15,7 @@
 </div>
 
 <div align='center'>
-<a height="150em" href="http://www.github.com/CaioAugustoHD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioAugustoHD&stroke=e7f216&theme=highcontrast&ring=e7f216&fire=e7f216&currStreakNum=e4e2e2&currStreakLabel=e7f216&sideNums=e4e2e2&sideLabels=FAA307&dates=e4e2e2&hide_border=true"/></a>
+<a height="150em" href="http://www.github.com/CaioAugustoHD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioAugustoHD&stroke=e7f216&theme=highcontrast&ring=e7f216&fire=e7f216&currStreakNum=e4e2e2&currStreakLabel=e7f216&sideNums=e4e2e2&sideLabels=e4ef1d&dates=e4e2e2&hide_border=true"/></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
