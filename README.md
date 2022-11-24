@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Caio Augusto
-### Sou desenvolvedor front-end
+### 💻 Sou desenvolvedor front-end
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,11 +11,11 @@
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAugustoHD&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAugustoHD&layout=compact&theme=highcontrast&border_color=e7f216&custom_title=Linguagens+mais+usadas&hide_border=true&text_color=e4e2e2"/>
 </div>
 
 <div align='center'>
-<a height="150em" href="http://www.github.com/CaioAugustoHD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioAugustoHD&stroke=2ea043&theme=highcontrast&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=false"/></a>
+<a height="150em" href="http://www.github.com/CaioAugustoHD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioAugustoHD&stroke=e7f216&theme=highcontrast&ring=e7f216&fire=e7f216&currStreakNum=e4e2e2&currStreakLabel=e7f216&sideNums=e4e2e2&sideLabels=FAA307&dates=e4e2e2&hide_border=true"/></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
